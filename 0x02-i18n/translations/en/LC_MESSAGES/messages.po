@@ -20,7 +20,7 @@ msgstr ""
 
 #: templates/1-index.html:7
 msgid "home_title"
-msgstr "Welcome to Holberton"
+msgstr "Welcome to ALX"
 
 #: templates/1-index.html:10
 msgid "home_header"
